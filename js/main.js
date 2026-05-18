@@ -29,7 +29,7 @@
   // Typing Animation
   // ================================
   const typedTextSpan = document.getElementById("typed-text");
-  const textArray = ["soft girl.", "big dreams.", "good vibes ✨"];
+  const textArray = ["Soft soul. Bold style.", "Real in every frame.", "Documenting beautiful moments.", "Lifestyle & Fashion Content Creator"];
   const typingSpeed = 100;
   const erasingSpeed = 50;
   const newTextDelay = 2000; 
