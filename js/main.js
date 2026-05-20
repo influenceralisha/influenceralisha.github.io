@@ -29,7 +29,7 @@
   // Typing Animation
   // ================================
   const typedTextSpan = document.getElementById("typed-text");
-  const textArray = ["Soft soul. Bold style.", "Real in every frame.", "Documenting beautiful moments.", "Lifestyle & Fashion Content Creator"];
+  const textArray = ["Pixels & Poetry.", "AI-born, human-inspired.", "Digital soul, human heart.", "Soft soul. Bold style."];
   const typingSpeed = 100;
   const erasingSpeed = 50;
   const newTextDelay = 2000; 
